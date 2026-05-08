@@ -1,7 +1,11 @@
-# 📚 Topics Covered
-## 1. Basic SQL Queries
+# Week-1 Day-1 – SQL Basic Queries
+## Overview
+#### This folder contains Day-1 SQL practice topics for Databricks training. The focus of Day-1 is to understand SQL fundamentals, basic query writing, string matching operations, and date-related queries.
 
-### concepts 
+## 📚 Topics Covered
+### 1. Basic SQL Queries
+
+#### concepts 
 - SELECT Statement
 - DISTINCT Keyword
 - WHERE Clause
@@ -11,9 +15,9 @@
 - Filtering Records
 - Sorting Data
 
-## 2. String Matching Queries
+### 2. String Matching Queries
 
-### concepts
+#### concepts
 - LIKE Operator
 - Wildcards
 - Pattern Matching
@@ -21,18 +25,18 @@
 - Uppercase and Lowercase Operations
 - String Length Functions
 
-## 3.Data Queries
+### 3.Data Queries
 
-### concepts
+#### concepts
 - Current Date Functions
 - Date Filtering
 - Year and Month Extraction
 - Date Comparisons
 - Last N Years Data
 
-# 🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
-### After completing Day-1, you will be able to:
+#### After completing Day-1, you will be able to:
 - Write basic SQL queries
 - Filter records using conditions
 - Perform string matching operations
@@ -40,8 +44,8 @@
 - Handle date functions and date filtering
 - Sort and organize data effectively
 
-# 📁 Folder Structure
-
+## 📁 Folder Structure
+'''text
 Week-1
 └── Day-1
     ├── basic_queries.sql
@@ -49,3 +53,4 @@ Week-1
     ├── date_queries.sql
     ├── outputs/
     └── README.md
+'''
