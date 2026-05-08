@@ -10,3 +10,42 @@
 - Aliases
 - Filtering Records
 - Sorting Data
+
+## 2. String Matching Queries
+
+### concepts
+- LIKE Operator
+- Wildcards
+- Pattern Matching
+- String Functions
+- Uppercase and Lowercase Operations
+- String Length Functions
+
+## 3.Data Queries
+
+### concepts
+- Current Date Functions
+- Date Filtering
+- Year and Month Extraction
+- Date Comparisons
+- Last N Years Data
+
+# 🎯 Learning Outcomes
+
+### After completing Day-1, you will be able to:
+- Write basic SQL queries
+- Filter records using conditions
+- Perform string matching operations
+- Work with string functions
+- Handle date functions and date filtering
+- Sort and organize data effectively
+
+# 📁 Folder Structure
+
+Week-1
+└── Day-1
+    ├── basic_queries.sql
+    ├── string_matching_queries.sql
+    ├── date_queries.sql
+    ├── outputs/
+    └── README.md
