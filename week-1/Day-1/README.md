@@ -2,7 +2,7 @@
 ## Overview
 
  This folder contains Day-1 SQL practice topics for Databricks training. The focus of Day-1 is to understand SQL fundamentals, basic query writing, string matching operations, and date-related queries.
-
+---
 
 
 ## 📚 Topics Covered
@@ -17,7 +17,7 @@
 - Aliases
 - Filtering Records
 - Sorting Data
-
+---
 ### 2. String Matching Queries
 
 #### concepts
@@ -27,7 +27,7 @@
 - String Functions
 - Uppercase and Lowercase Operations
 - String Length Functions
-
+---
 ### 3.Data Queries
 
 #### concepts
@@ -36,9 +36,9 @@
 - Year and Month Extraction
 - Date Comparisons
 - Last N Years Data
-
+---
 ## 🎯 Learning Outcomes
-
+---
 #### After completing Day-1, you will be able to:
 - Write basic SQL queries
 - Filter records using conditions
@@ -57,3 +57,4 @@ Week-1
     ├── outputs/
     └── README.md
 ```
+---
