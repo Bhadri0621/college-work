@@ -9,6 +9,7 @@ This repository contains Databricks SQL training materials. The content is organ
 - ORDER BY
 - String Matching Queries
 - Date Queries
+---
 ## 📅 Day-2 Topics
 - Aggregate Functions
 - COUNT Function
@@ -19,7 +20,7 @@ This repository contains Databricks SQL training materials. The content is organ
 
   ---
   
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 - SQL
 - Databricks
 - GitHub
